@@ -32,4 +32,14 @@ puts "Hello World"
 
 ![git](./images/git.png)
 
+```markdown
+/srv/gitone/git-data/project/1x/10.git
+```
+
 ###### h6
+
+![git](https://dev.gitone.dev/gitone/markup-example/-/raw/main/images/git.png)
+
+```md
+![git](https://dev.gitone.dev/gitone/markup-example/-/raw/main/images/git.png)
+```
