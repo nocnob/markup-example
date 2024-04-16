@@ -19,3 +19,9 @@ puts "Hello World"
 ```markdown
 [README.md](./README.md)
 ```
+
+[README.md](./README.md)
+
+```markdown
+[README.md](/README.md)
+```
